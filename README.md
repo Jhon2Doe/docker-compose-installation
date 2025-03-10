@@ -23,7 +23,7 @@ This script automates the installation of Docker and Docker Compose on Ubuntu, e
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/docker-install-script.git
+git clone https://github.com/Jhon2Doe/docker-install-script.git
 cd docker-install-script
 ```
 
