@@ -1,4 +1,3 @@
-```
 # Docker and Docker Compose Installation Script
 
 ## Overview
