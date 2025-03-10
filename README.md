@@ -52,22 +52,3 @@ To verify Docker Compose:
 ```bash
 docker-compose --version
 ```
-
-## Notes
-
-- This script **removes any existing Docker-related packages** before installation.
-- It installs the **latest stable version** of Docker and Docker Compose.
-- If you encounter any issues, check your **internet connection and package sources**.
-
-## License
-
-```bash
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-## Contributing
-
-```bash
-Feel free to submit issues or pull requests if you find any improvements or bugs!
-```
-
